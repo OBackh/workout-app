@@ -242,6 +242,7 @@ export const InstructionsList = styled.ol`
   gap: 0.5rem;
   padding: 0;
   margin-top: 2rem;
+  width: 90%;
 `;
 
 export const InstructionItem = styled.li`
@@ -324,7 +325,8 @@ export const ProgramCard = styled.div`
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: flex-start;
+  align-self: flex-start;
   _height: 15rem;
   width: 330px;
   margin: 1rem; /* Add some space between the cards */

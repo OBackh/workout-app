@@ -41,7 +41,11 @@ export default function PrepAndFollowUp() {
     <div>
       <StyledHeadline>Heat It Up & Chill It Out</StyledHeadline>
       <div
-        style={{ display: "flex", flexWrap: "wrap", justifyContent: "center" }}
+        style={{
+          display: "flex",
+          flexWrap: "wrap",
+          justifyContent: "center",
+        }}
       >
         {warmUpCoolDownPrograms.map((program) => (
           <ProgramCard key={program.id}>
