@@ -1,19 +1,37 @@
-# New Next Project
+# Workout-App
 
-### Local Development
+Die **Workout-App** ist eine kleine Web-App zur Dokumentation eigener Trainingseinheiten. Nutzer:innen können Übungen hinzufügen, bearbeiten oder löschen und so ihre Workouts individuell gestalten.
 
-To work locally, please install the dependencies using `npm i` first.
+## 🏋️‍♀️ Features
+- Hinzufügen von Workouts und Übungen mit Name, Wiederholungen & Gewicht
+- Bearbeiten und Löschen bestehender Workouts
+- Übersicht aller gespeicherten Workouts
+- CRUD-Operations
 
-Run `npm run dev` to start a development server and open the displayed URL in a browser.
+## ⚙️ Technologien
+- JavaScript / Next / React
+- CSS
 
-Use `npm run test` to run the tests.
+## 🎯 Ziel
+Ein Übungsprojekt zur Festigung von React-Grundlagen (Komponenten, State, Props) sowie zur Anwendung von CRUD-Operationen.
 
-### Scripts
 
-You can use the following commands:
+================================
 
-- `npm run dev` to start a development server
-- `npm run build` to build the project
-- `npm run start` to start a production server
-- `npm run test` to run the tests
-- `npm run lint` to run the linter
+
+# Workout App
+
+The **Workout App** is a small web application for documenting personal workout sessions. Users can add, edit, or delete exercises and customize their training routines.
+
+## 🏋️‍♀️ Features
+- Add workouts and exercises with name, repetitions, and weight
+- Edit and delete existing workouts
+- Overview of all saved workouts
+- Full CRUD operations
+
+## ⚙️ Technologies
+- JavaScript / Next.js / React
+- CSS
+
+## 🎯 Purpose
+A practice project to reinforce React fundamentals (components, state, props) and apply basic CRUD operations.
