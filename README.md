@@ -35,3 +35,13 @@ The **Workout App** is a small web application for documenting personal workout 
 
 ## 🎯 Purpose
 A practice project to reinforce React fundamentals (components, state, props) and apply basic CRUD operations.
+
+
+============================================
+
+Demo:
+
+https://workout-capstone.vercel.app/
+
+
+============================================
