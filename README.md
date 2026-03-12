@@ -43,7 +43,7 @@ A practice project to reinforce React fundamentals (components, state, props) an
 
 Demo:
 
-https://workout-capstone.vercel.app/
+https://workout.ole-backhaus.de
 
 
 ============================================
