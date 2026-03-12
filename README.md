@@ -2,6 +2,8 @@
 
 Die **Workout-App** ist eine kleine Web-App zur Dokumentation eigener Trainingseinheiten. Nutzer:innen können Übungen hinzufügen, bearbeiten oder löschen und so ihre Workouts individuell gestalten.
 
+https://workout.ole-backhaus.de
+
 ## 🏋️‍♀️ Features
 - Hinzufügen von Workouts und Übungen mit Name, Wiederholungen & Gewicht
 - Bearbeiten und Löschen bestehender Workouts
